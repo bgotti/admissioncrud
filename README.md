@@ -1,2 +1,2 @@
-# admissioncrud
+# Admission Crud
 Admission CRUD
